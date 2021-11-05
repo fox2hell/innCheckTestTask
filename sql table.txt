@@ -1,0 +1,6 @@
+CREATE DATABASE INNs;
+USE INNs;
+CREATE TABLE inns (
+inn varchar(12),
+message varchar(250),
+date varchar(10))
